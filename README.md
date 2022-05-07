@@ -1,2 +1,2 @@
 # Data-Science-Projects
-This is my portfolio of data science projects done in Python &amp; R
+This is my portfolio of data science projects done in Python
