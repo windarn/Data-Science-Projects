@@ -1,5 +1,5 @@
 # My Portfolio
-This is my portafolio of data science projects
+This is my portafolio of data science projects on Python
 
 #### -- Projects Status: [Completed]
 
