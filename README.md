@@ -14,4 +14,4 @@ This is my portafolio of data science projects
 * Python
 * SQL
 * Pandas, jupyter
-* etc.
+* Others.
